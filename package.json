@@ -24,6 +24,7 @@
   "homepage": "https://github.com/jesushdezc/FestivalMusica_inicio#readme",
   "devDependencies": {
     "gulp": "^5.0.0",
+    "gulp-plumber": "^1.2.1",
     "gulp-sass": "^5.1.0",
     "sass": "^1.75.0"
   }
